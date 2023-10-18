@@ -1,2 +1,2 @@
 # kubernetes_test
-Deploy on KS8
+Deploy on K8S
